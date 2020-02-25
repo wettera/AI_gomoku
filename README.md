@@ -20,7 +20,7 @@ put `gomoku.py` and `play_on_desktop.py`  in the same directory, then run `play_
 
 ## Play screenshot
 
-![play_screenshot](D:\github_repository\AI_gomoku\play_screenshot.png)
+![play_screenshot](https://github.com/wettera/AI_gomoku/blob/master/play_screenshot.png)
 
 ## Reference
 
